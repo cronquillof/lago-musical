@@ -27,7 +27,7 @@ function App() {
  
   return (
     <div className="container">
-     <img src={'funiber-400.jpg'} className="App-logo" alt="logo" />
+     <img src={'/funiber-400.jpg'} className="App-logo" alt="logo" />
       <h1>Explorador de Sonidos</h1>
       <input
         type="text"
